@@ -9,8 +9,11 @@
 ## API
 
 ```cpp
-#include <fcoo.h>
-#include <fcsr.h>
+#define value_type double
+#define index_type uint
+
+#include "FastMatrixLoader/fcoo.h"
+#include "FastMatrixLoader/fcsr.h"
 
 ...
 

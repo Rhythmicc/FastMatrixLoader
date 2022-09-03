@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cu": "cpp",
+        "fcoo.h": "c",
+        "fcsr.h": "c"
+    }
+}

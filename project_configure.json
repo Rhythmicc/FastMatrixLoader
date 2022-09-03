@@ -1,0 +1,15 @@
+{
+    "build": "gcc -std=c++11 main.cpp -o dist/FastMatrixLoader",
+    "entry_point": "main.c",
+    "executable": "dist/FastMatrixLoader",
+    "input_file": "dist/input.txt",
+    "template_root": "template/",
+    "server_targets": [
+        {
+            "user": "",
+            "host": "",
+            "path": "",
+            "port": "22"
+        }
+    ]
+}
